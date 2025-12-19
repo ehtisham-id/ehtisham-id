@@ -1,12 +1,7 @@
 <div align="center">
 
   # Hi there, I'm Muhammad Ehtisham! 👋
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Engineer;Cyber+Security+Enthusiast;Node.js+%7C+Python+%7C+Rust" alt="Typing SVG" />
-
-  <br/>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/216656975-2d99e9aa-cfcb-4f02-b06c-efc96f8b3c6d.gif" width="150"/>
 
   <br/>
 

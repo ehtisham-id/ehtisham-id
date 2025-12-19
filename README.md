@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/ehtisham-id/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61567476406970">
+  <a href="https://www.facebook.com/ehtisham.id">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
   <a href="mailto:m.ehtisham.id@gmail.com">

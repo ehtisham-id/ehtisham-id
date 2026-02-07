@@ -70,9 +70,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" />
 
 <!-- Security & Testing Tools -->
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-<!-- <img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" width="40" /> -->
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="40" />
+
 
 </p>

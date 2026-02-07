@@ -18,19 +18,22 @@
 ### 👨‍💻 About Me
 
 - 🔭 Backend engineer building **secure, scalable, production-grade systems**
-- 🛠️ Experienced with **Node.js, TypeScript, Solidity**, and modern backend architectures
+- 🛠️ Working with **Node.js, TypeScript, Solidity**
 - 🔐 Strong interest in **Web3 security, smart contract development & auditing**
-- 🌱 Learning **distributed systems, system design, and low-level performance**
-- 💡 Curious about **cybersecurity, blockchain infrastructure, IoT, and hardware**
+- 🌱 Learning **distributed systems and system design**
+- 💡 Interested in **cybersecurity, blockchain infrastructure, IoT, and hardware**
 
 ---
 
 ### 🔐 Web3 & Security Focus
 
-- Smart contract development using **Solidity**
-- Understanding of common vulnerabilities
-- Secure API design, authentication, and backend hardening
-- Passion for breaking systems to learn how to **defend them better**
+- Smart contract development and auditing using **Solidity**
+- Familiar with common vulnerabilities:
+  - Reentrancy
+  - Access control flaws
+  - Integer overflows & logic bugs
+- Backend security: authentication, authorization, and API hardening
+- Hands-on with security testing tools and methodologies
 
 ---
 
@@ -64,14 +67,15 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40" />
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" />
 
-<!-- DevOps & Cloud -->
+<!-- DevOps & CI/CD -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
 
-<!-- Tools -->
+<!-- Security & Testing Tools -->
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+<!-- <img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" width="40" /> -->
 
 </p>

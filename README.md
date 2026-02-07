@@ -28,10 +28,7 @@
 ### 🔐 Web3 & Security Focus
 
 - Smart contract development and auditing using **Solidity**
-- Familiar with common vulnerabilities:
-  - Reentrancy
-  - Access control flaws
-  - Integer overflows & logic bugs
+- Familiar with common vulnerabilities
 - Backend security: authentication, authorization, and API hardening
 - Hands-on with security testing tools and methodologies
 

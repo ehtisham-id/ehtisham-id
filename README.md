@@ -18,19 +18,10 @@
 ### 👨‍💻 About Me
 
 - 🔭 Backend engineer building **secure, scalable, production-grade systems**
-- 🛠️ Working with **Node.js, TypeScript, Solidity**
+- 🛠️ Working with **Node.js, Java, Solidity**
 - 🔐 Strong interest in **Web3 security, smart contract development & auditing**
 - 🌱 Learning **distributed systems and system design**
 - 💡 Interested in **cybersecurity, blockchain infrastructure, IoT, and hardware**
-
----
-
-### 🔐 Web3 & Security Focus
-
-- Smart contract development and auditing using **Solidity**
-- Familiar with common vulnerabilities
-- Backend security: authentication, authorization, and API hardening
-- Hands-on with security testing tools and methodologies
 
 ---
 
